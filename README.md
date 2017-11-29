@@ -1,4 +1,4 @@
 Labetool
 ===============
 
-An BBox-Label-Tool edited program to approach darknet input format.
+A BBox-Label-Tool edited program to approach darknet input format.
